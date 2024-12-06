@@ -1,0 +1,20 @@
+.clr{color: slategrey;}
+.clrbg{
+    background-color: lightcyan;
+}
+.clrbg2{
+    background-color: black; align-items: center;display: flex;flex-direction: column;justify-content: center;
+}
+
+
+.clrbg3{
+    background-color: black;
+}
+
+.car2{
+    margin-left: 10px;
+}
+ body{
+    overflow-x: hidden;
+} 
+
